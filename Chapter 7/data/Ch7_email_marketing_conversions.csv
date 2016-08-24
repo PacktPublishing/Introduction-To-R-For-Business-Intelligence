@@ -1,0 +1,17 @@
+Promotion,Source,Target,Count,Percent
+Free Month,Sent Email,Opened Email,388,0.388000
+10% off,Sent Email,Opened Email,308,0.308000
+Free Month,Sent Email,No Action,612,0.612000
+10% off,Sent Email,No Action,692,0.692000
+Free Month,Opened Email,Clicked Email Link,194,0.500000
+10% off,Opened Email,Clicked Email Link,143,0.464286
+Free Month,Opened Email,No Action,194,0.500000
+10% off,Opened Email,No Action,165,0.535714
+Free Month,Clicked Email Link,Created Account,114,0.587629
+10% off,Clicked Email Link,Created Account,115,0.804196
+Free Month,Clicked Email Link,No Action,80,0.412371
+10% off,Clicked Email Link,No Action,28,0.195804
+Free Month,Created Account,Paid for Membership,83,0.728070
+10% off,Created Account,Paid for Membership,106,0.921739
+Free Month,Created Account,No Action,31,0.271930
+10% off,Created Account,No Action,9,0.078261
