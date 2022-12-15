@@ -1,3 +1,15 @@
+
+### Get this product for $5
+
+<i>Packt is having its biggest sale of the year. Get this eBook or any other book, video, or course that you like just for $5 each</i>
+
+
+<b><p align='center'>[Buy now](https://packt.link/9781785280252)</p></b>
+
+
+<b><p align='center'>[Buy similar titles for just $5](https://subscription.packtpub.com/search)</p></b>
+
+
 # Introduction-To-R-For-Business-Intelligence
 
 This is the code repository for [Introduction to R for Business Intelligence](https://www.packtpub.com/big-data-and-business-intelligence/introduction-r-business-intelligence?utm_source=github&utm_medium=repository&utm_campaign=9781785280252), published by Packt Publishing. It contains all the supporting code files necessary to work through the book from start to finish.
